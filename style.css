@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+}
+
+.container {
+    position: relative;
+    max-width: 40%;
+    max-height: 30%;
+}
+
+img {
+    max-width: 100%;
+}
+
+.box {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    color: white;
+    background-color: rgba(20, 20, 20, 80%);
+    padding: 10px;
+}
